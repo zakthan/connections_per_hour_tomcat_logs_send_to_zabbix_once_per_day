@@ -1,6 +1,6 @@
 #!/bin/bash
 HOST=$(hostname)
-ZABBIX=pvzabbix01.cosmote.gr
+ZABBIX=pvzabbix01.***.gr
 KEY=connections_per_hour
 LOG_FILE_WITH_CONNECTIONS_PER_HOUR=/lfrote/scripts/log
  
